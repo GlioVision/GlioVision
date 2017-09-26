@@ -1,0 +1,8 @@
+Leading Edge (LE)
+Infiltrating Tumor (IT)
+Cellular Tumor (CT)
+Perinecrotic Zone (CTpnz)
+Necrosis (CTne)
+Psudopalisading cells but no visible necrosis (CTpan)
+Hyperplastic blood vessels in infilitrating/cellular tumor (hbv)
+
