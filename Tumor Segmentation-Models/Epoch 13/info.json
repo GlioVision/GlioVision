@@ -1,0 +1,24 @@
+{
+    "caffe flavor": "NVIDIA",
+    "caffe version": "0.16.2",
+    "creation time": "2017-09-04 16:39:10.109818",
+    "dataset_id": "20170904-154243-cc82",
+    "deploy file": "deploy.prototxt",
+    "digits version": "5.1-dev",
+    "framework": "caffe",
+    "id": "20170904-163910-9871",
+    "image dimensions": [
+        512,
+        512,
+        3
+    ],
+    "job id": "20170904-163910-9871",
+    "mean file": "mean.binaryproto",
+    "model file": "original.prototxt",
+    "name": "IvyGAP_data1_try5",
+    "snapshot file": "snapshot_iter_38662.caffemodel",
+    "solver file": "solver.prototxt",
+    "status": "Running",
+    "train_val file": "train_val.prototxt",
+    "username": "kavyakvk"
+}
