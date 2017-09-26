@@ -1,0 +1,17 @@
+files = dir('C:/Research/APPatches/');
+fprintf("starting!");
+for i = 1: length(files)
+    fprintf(files(i).name);
+    totalName = i;
+    img = imread(totalName);
+    [height, width] = size(img);
+    counter = 0;
+    if((height ~= 256)||(width ~=256))
+        counter = counter + 1;
+        fprintf("ERROR: ");
+        fprintf(totalName);
+        fprintf(" NOT RIGHT SIZE.");
+        fprintf(int2str(counter));
+        fprintf('\n');
+    end
+end
